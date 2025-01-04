@@ -1,0 +1,1127 @@
+[09-Mar-2022 00:56:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 00:56:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 00:57:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 00:57:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:00:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:01:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:05:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:06:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:12:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:19:38 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:22:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:22:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:27:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:28:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 01:29:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 02:16:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 04:19:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 04:38:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 04:39:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 04:40:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 05:00:32 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 05:16:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 05:57:47 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:00:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:08:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:14:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:16:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:21:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:24:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:27:32 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:33:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:36:38 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:42:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 06:56:03 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:02:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:02:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:10:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:10:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:10:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:21:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:25:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:26:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:26:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:26:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:26:47 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:27:22 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:27:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:27:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:27:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:28:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:28:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:28:38 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:31:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:34:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:35:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:35:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:37:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:40:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:40:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:41:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:42:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:43:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:48:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:50:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:50:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:50:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:51:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:51:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:52:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:52:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:52:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:53:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:59:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 07:59:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:01:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:01:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:07:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:08:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:08:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:08:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:13:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:15:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:18:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:19:58 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:24:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:25:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:27:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:28:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:38:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:40:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:41:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:42:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:42:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:43:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:43:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:46:20 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:46:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:46:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:49:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:49:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:53:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:54:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[09-Mar-2022 08:58:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 08:58:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:00:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:00:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:01:45 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:02:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:03:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:03:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:03:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:05:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:05:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:08:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:15:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:15:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:17:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:19:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:21:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:21:47 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:27:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:30:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:31:59 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:32:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:34:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:41:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:42:03 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:42:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:47:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:54:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 09:57:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:07:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:13:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:14:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:20:02 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:20:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:21:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:22:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:22:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:27:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:28:52 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:29:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:29:59 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:30:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:33:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:35:38 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:35:41 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:35:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:36:16 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:45:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:47:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 10:48:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:00:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:07:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:11:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:30:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:30:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:42:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:42:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:47:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 4210688 bytes) in /home/flingex/public_html/storage/framework/views/27afde579150eb8501eba35bc3ec5c2a8f3428fa.php on line 75
+[09-Mar-2022 11:47:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 23072768 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[09-Mar-2022 11:48:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 69771552 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 918
+[09-Mar-2022 11:48:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:49:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 62914592 bytes) in /home/flingex/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1181
+[09-Mar-2022 11:49:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 16384 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[09-Mar-2022 11:50:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 62914592 bytes) in /home/flingex/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1181
+[09-Mar-2022 11:51:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 44044288 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[09-Mar-2022 11:53:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:55:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:56:04 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 11:59:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:01:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:01:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:04:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:04:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:05:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:06:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:07:36 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:07:59 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:08:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:09:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:10:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:12:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:14:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:14:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:14:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:15:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:16:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:18:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:22:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:23:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:29:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:39:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:44:41 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:45:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:53:03 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 12:54:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:00:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:00:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:10:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:17:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:26:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:26:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:27:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:28:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:30:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:31:33 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:32:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:32:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:33:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:33:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:33:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:33:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:33:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:33:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:33:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:34:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:34:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:34:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:34:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:35:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:35:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:35:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:35:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/flingex/public_html/vendor/symfony/error-handler/Error/FatalError.php on line 1
+[09-Mar-2022 13:35:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:38:27 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:40:24 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:42:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:44:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:46:07 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 13:46:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:14:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:19:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:20:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:22:34 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:23:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:24:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:24:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:25:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:25:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:26:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:28:55 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:31:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:32:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:33:11 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:35:37 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:38:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:47:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:54:22 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:56:21 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:56:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 14:58:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:00:04 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:00:18 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:02:05 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:07:10 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:08:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:08:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:10:47 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:10:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:11:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:11:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:12:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:12:34 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:13:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:16:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:23:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[09-Mar-2022 15:24:44 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[10-Mar-2022 06:39:06 UTC] PHP Fatal error:  Can't use function return value in write context in /home/flingex/public_html/app/Http/Controllers/DeliverymanApiController.php on line 211
+[10-Mar-2022 06:39:27 UTC] PHP Fatal error:  Can't use function return value in write context in /home/flingex/public_html/app/Http/Controllers/DeliverymanApiController.php on line 211
+[28-Mar-2022 20:43:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:24 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:26 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:27 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:30 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:34 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[04-Apr-2022 16:07:48 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include()
+#1 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/flingex/public_html/vendor/composer/ClassLoader.php(444): include('/home/flingex/p...')
+#5 /home/flingex/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/flingex/p...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): spl_autoload_call('Illuminate in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[05-Apr-2022 22:34:59 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home/flingex/public_html/app/Http/Controllers/DeliverymanApiController.php on line 151
+[09-Apr-2022 11:42:13 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1600937984) (tried to allocate 48238592 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[11-Apr-2022 02:14:33 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1534676992) (tried to allocate 48238592 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[11-Apr-2022 02:14:55 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1438208000) (tried to allocate 237568 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[13-Apr-2022 08:13:03 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1535864832) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 541
+[15-Apr-2022 10:13:38 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1939881984) (tried to allocate 16384 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 495
+[15-Apr-2022 10:14:39 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 979386368) (tried to allocate 16384 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 495
+[15-Apr-2022 10:15:54 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1195393024) (tried to allocate 16384 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 495
+[15-Apr-2022 10:46:15 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1939881984) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 697
+[15-Apr-2022 10:57:43 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 1939881984) (tried to allocate 16384 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 495
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 530587648) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 574627840) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 551559168) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 591405056) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 637542400) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 639639552) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 658513920) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 528490496) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 704651264) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 603987968) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 631250944) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 564142080) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 652222464) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 528490496) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 687874048) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 566239232) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 631250944) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 790634496) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 578822144) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 553656320) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 608182272) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 358469632) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 624959488) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 551559168) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:41 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 606085120) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 551559168) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 559947776) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 566239232) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 664805376) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 576724992) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 538976256) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 612376576) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 675291136) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 683679744) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 526393344) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 559947776) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 248
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 608182272) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 847257600) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 658513920) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[15-Apr-2022 20:19:42 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 799023104) (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[27-Apr-2022 15:47:44 Asia/Dhaka] PHP Fatal error:  Interface 'App\Imports\ToModel' not found in /home/flingex/public_html/app/Imports/StatusParcelimport.php on line 7
+[27-Apr-2022 15:48:22 Asia/Dhaka] PHP Fatal error:  Interface 'App\Imports\ToModel' not found in /home/flingex/public_html/app/Imports/StatusParcelimport.php on line 7
+[27-Apr-2022 15:51:00 Asia/Dhaka] PHP Fatal error:  Interface 'App\Imports\ToModel' not found in /home/flingex/public_html/app/Imports/StatusParcelimport.php on line 7
+[11-May-2022 17:25:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[11-May-2022 17:27:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[11-May-2022 17:28:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[11-May-2022 17:29:57 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[12-May-2022 01:40:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[12-May-2022 02:24:26 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[12-May-2022 02:25:40 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[12-May-2022 02:28:16 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[12-May-2022 02:38:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 02:46:31 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 02:48:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[12-May-2022 03:10:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 03:15:43 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 03:19:49 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 09:25:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[12-May-2022 09:27:46 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 239
+[12-May-2022 22:55:48 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 22:56:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 23:40:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[12-May-2022 23:52:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[12-May-2022 23:52:52 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 02:25:57 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:00:13 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:01:03 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:01:39 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 03:05:29 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 03:05:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:06:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:06:50 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 03:07:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:12:23 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:13:05 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 03:44:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 07:08:37 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 07:28:39 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 07:29:54 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 07:30:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 07:30:59 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 07:33:32 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[13-May-2022 07:34:14 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 23:27:14 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 23:27:49 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 23:28:17 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[13-May-2022 23:55:28 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:05:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[14-May-2022 00:06:35 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:21:01 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:21:45 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:22:19 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:22:57 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 00:37:34 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[14-May-2022 00:38:16 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[14-May-2022 00:38:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[14-May-2022 00:39:58 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[14-May-2022 01:36:10 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 01:36:41 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 01:37:10 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 01:39:23 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 01:39:47 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 01:41:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 02:19:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 745
+[14-May-2022 02:21:08 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[14-May-2022 02:28:39 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/flingex/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
